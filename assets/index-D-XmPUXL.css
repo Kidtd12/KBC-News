@@ -1,0 +1,1 @@
+body{overflow-x:hidden}.nav-tab{color:#ccc;transition:all .3s ease;background-color:transparent}.nav-tab:hover{color:#322f30;background-color:#ebebf0c3;transform:scale(1.05)}.active-tab{background:linear-gradient(90deg,red,#312e2f);color:#000;font-weight:700;box-shadow:0 0 10px #ffd70080}
