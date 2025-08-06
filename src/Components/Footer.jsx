@@ -52,7 +52,7 @@ const Footer = () => {
         <hr className="border-gray" />
 
         <div className="text-center text-danger">
-          © 2025 <strong>KBC🌍</strong> | Built by kid_ion
+          © 2025 <strong>KBC</strong> | Built by kid_ion
         </div>
       </div>
     </footer>
